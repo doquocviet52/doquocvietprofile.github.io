@@ -49,7 +49,7 @@
 </head>
 <body>
   <div class="header"></div>
-  <img class="avatar" src="V.jpg" alt="Avatar" />
+  <img class="avatar" src="V.jpg" alt="V.jpg" />
 
   <div class="container">
     <h1>Đỗ Quốc Việt</h1>
