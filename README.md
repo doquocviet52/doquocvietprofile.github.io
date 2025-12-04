@@ -11,8 +11,9 @@
       margin: 0;
       font-family: "Poppins", Arial, sans-serif;
       color: white;
-      background: url('![neymar](https://github.com/user-attachments/assets/7ef901e9-cc0b-4431-9132-4254fd873efb)
-') no-repeat center center fixed;
+      /* SỬA LỖI: XÓA ![] VÀ XUỐNG DÒNG */
+      background: url('https://github.com/user-attachments/assets/7ef901e9-cc0b-4431-9132-4254fd873efb') 
+      no-repeat center center fixed;
       background-size: cover;
     }
 
@@ -129,8 +130,8 @@
 
   <!-- HERO SECTION -->
   <div class="hero" id="home">
-    <img class="avatar" src="![dabanh](https://github.com/user-attachments/assets/7f389780-3a7c-4d8d-9bfe-4e992ca7f3dc)
-" alt="avatar">
+    <!-- SỬA LỖI LINK IMG -->
+    <img class="avatar" src="https://github.com/user-attachments/assets/7f389780-3a7c-4d8d-9bfe-4e992ca7f3dc" alt="avatar">
     <h1>Đỗ Quốc Việt</h1>
     <p>Football Player | Winger | Playmaker</p>
   </div>
@@ -177,3 +178,4 @@
 
 </body>
 </html>
+
