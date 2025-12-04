@@ -11,7 +11,8 @@
       margin: 0;
       font-family: "Poppins", Arial, sans-serif;
       color: white;
-      background: url('https://images.unsplash.com/photo-1521412644187-c49fa049e84d?auto=format&fit=crop&w=1350&q=80') no-repeat center center fixed;
+      background: url('![neymar](https://github.com/user-attachments/assets/7ef901e9-cc0b-4431-9132-4254fd873efb)
+') no-repeat center center fixed;
       background-size: cover;
     }
 
@@ -128,7 +129,8 @@
 
   <!-- HERO SECTION -->
   <div class="hero" id="home">
-    <img class="avatar" src="https://github.com/user-attachments/assets/7ecaaff8-b9e7-4c5e-a0f7-19d5a5647b4b" alt="avatar">
+    <img class="avatar" src="![dabanh](https://github.com/user-attachments/assets/7f389780-3a7c-4d8d-9bfe-4e992ca7f3dc)
+" alt="avatar">
     <h1>Đỗ Quốc Việt</h1>
     <p>Football Player | Winger | Playmaker</p>
   </div>
@@ -137,8 +139,8 @@
   <div class="section" id="info">
     <h2>Thông tin cá nhân</h2>
     <p><strong>Họ và tên:</strong> Đỗ Quốc Việt</p>
-    <p><strong>Lớp:</strong> 12A?</p>
-    <p><strong>Số điện thoại:</strong> 0xxxxxxxx</p>
+    <p><strong>Lớp:</strong> 12V?</p>
+    <p><strong>Số điện thoại:</strong> 0704828957</p>
     <p><strong>Email:</strong> moonzred706@gmail.com</p>
     <p><strong>Địa chỉ:</strong> Bến Tre, Việt Nam</p>
     <p><strong>Vị trí thi đấu yêu thích:</strong> RW – LW – CAM</p>
